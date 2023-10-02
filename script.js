@@ -55,6 +55,6 @@ var typed = new Typed(".multi-text", {
 
 
 var runredirect = function () {
-    var redirectw1 = window.open('https://drive.google.com/file/d/1A4VzlA4SyhCFbGin9ZSzR6l6tYNI9xXe/view?usp=share_link');
+    var redirectw1 = window.open('https://drive.google.com/file/d/180tEOnXYvPrhQaRE8E7CL4pbV7d5yeJC/view?usp=sharing');
     redirectw1.location;
 }

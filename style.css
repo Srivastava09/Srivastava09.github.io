@@ -1600,3 +1600,11 @@ span {
     border-radius: 2rem;
     border: .2rem solid var(--main-color);
 }
+.hotspot{
+    width: 100px;
+    box-shadow: 0 0 1rem var(--main-color);
+    border-radius: 50%;
+    align-items: center;
+    margin-left: 550px;
+    margin-bottom: 20px;
+}
